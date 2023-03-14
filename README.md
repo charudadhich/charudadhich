@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charudadhich
 - 👀 I’m interested in Machine learning, Python, C++, competitive programming and frontend development.
-- 🌱 I’m currently learning frontend development.
+- 🌱 I’m currently IBMI developer.
 - 📫 How to reach me https://www.linkedin.com/in/charu-dadhich/
 
 <!---
