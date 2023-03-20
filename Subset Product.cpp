@@ -27,7 +27,6 @@ int f(int arr[], int n){
             rightproduct *= arr[i];
         }
     }
-    cout<<rightproduct<<endl;
 
     if(rightproduct == leftproduct){
         return idx;
@@ -44,7 +43,7 @@ int main(){
         cin>>arr[i];
     }
     
-    cout<<"Array is:";
+    cout<<"Array is: ";
     
     for(int i=0; i<n; i++){
         cout<<arr[i]<<" ";
@@ -53,7 +52,7 @@ int main(){
     cout<<endl;
 
     int x = f(arr, n);
-    cout<<"Index is:"<<x;
+    cout<<"Index is: "<<x;
     return 0;
 }
 
